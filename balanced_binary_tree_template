@@ -1,7 +1,7 @@
 //
 //Name: Harshil Patel
-//Course: Data Structures CS2028C
-//Assignment: Extra Credit
+//Data Structures Practice
+//Template for a Balanced Binary Tree
 
 #include <iostream>
 #include <stdio.h>
